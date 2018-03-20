@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/crashlaker/Downloads/nixpkgs-master/pkgs/tools/system/tree'
+let g:netrw_dirhist_2='/Users/crashlaker/openhpc-ansible/group_vars'
+let g:netrw_dirhist_3='/Users/crashlaker/vhpc/ansible/roles/sieve-packages'
+let g:netrw_dirhist_4='/Users/crashlaker/vhpc/ansible/roles/packages'
+let g:netrw_dirhist_5='/Users/crashlaker/ansible/test/prompt-import'
+let g:netrw_dirhist_6='/Users/crashlaker/crash/nginx-ferrao/nginx/nginx/conf.d'
+let g:netrw_dirhist_7='/Users/crashlaker/ansible/test/prompt-import'
+let g:netrw_dirhist_8='/Users/crashlaker/ansible/test/variables/roles/test/task/main.yml'
+let g:netrw_dirhist_9='/Users/crashlaker/vhpc/ansible/roles/cluster/templates'
